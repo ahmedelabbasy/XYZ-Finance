@@ -10,30 +10,40 @@ https://drive.google.com/file/d/1vRMPqIyypwe4qP1aonWaIn1lYkG3MyUa/view?usp=shari
 
 ## 🌟 Features
 
-# Income & Expense Tracking: Add, edit, and delete transactions with ease.
-# Visual Insights: View pie charts for income and expenses categorized by type.
-# Dark and Light Themes: Toggle between themes for a personalized experience.
-# Customizable Date Picker: Select transaction dates using an intuitive date picker.
-# Persistent Storage: Save data locally with redux-persist and @react-native-async-storage.
-# Responsive Navigation: Navigate effortlessly with drawer navigation.
-# Real-Time Animations: Enjoy smooth animations throughout the app.
+- Income & Expense Tracking: Add, edit, and delete transactions with ease.
+- Visual Insights: View pie charts for income and expenses categorized by type.
+- Dark and Light Themes: Toggle between themes for a personalized experience.
+- Customizable Date Picker: Select transaction dates using an intuitive date picker.
+- Persistent Storage: Save data locally with redux-persist and @react-native-async-storage.
+- Responsive Navigation: Navigate effortlessly with drawer navigation.
+- Real-Time Animations: Enjoy smooth animations throughout the app.
 
 ## 📂 Project Structure
 
 The project is organized for scalability and maintainability:
 
-`
-src/
-├── assets/        # Static assets like images and fonts
-├── components/    # Reusable React Native components
-├── constants/     # Global constants and configurations
-├── hooks/         # Custom hooks for app-specific logic
-├── navigation/    # Navigation setup (e.g., Drawer, Stack)
-├── screens/       # App screens (e.g., Home, Transactions, Add Transaction)
-├── store/         # Redux Toolkit slices and store configuration
-├── theme/         # Light and Dark themes using styled-components
-├── types/         # TypeScript types and interfaces
-`
+`src/`
+
+`assets/          # Static assets like images and fonts`
+
+`components/      # Reusable React Native components`
+
+`constants/       # Global constants and configurations`
+
+`hooks/           # Custom hooks for app-specific logic`
+
+`navigation/      # Navigation setup (e.g., Drawer, Stack)`
+
+`screens/         # App screens (e.g., Home, Transactions, Add Transaction)`
+
+`store/           # Redux Toolkit slices and store configuration`
+
+`theme/           # Light and Dark themes using styled-components`
+
+`types/           # TypeScript types and interfaces`
+
+
+
 ## 🛠️ Technologies & Tools
 
 # Core
@@ -90,7 +100,7 @@ yarn install
 
 Special thanks to the developers and libraries that made this project possible:
 
-# React Native
-# Expo
-# Redux Toolkit
-# Styled Components
+- React Native
+- Expo
+- Redux Toolkit
+- Styled Components
